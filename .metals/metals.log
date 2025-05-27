@@ -1,0 +1,51 @@
+2025.02.13 15:19:05 INFO  Started: Metals version 1.5.1 in folders '/Users/bala/IdeaProjects/zio-learning' for client Visual Studio Code 1.95.3.
+Feb 13, 2025 3:19:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.02.13 15:19:10 INFO  no build target found for /Users/bala/IdeaProjects/zio-learning/src/main/scala/problem/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.13 15:19:10 INFO  no build target found for /Users/bala/IdeaProjects/zio-learning/src/main/scala/problem/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.13 15:19:11 INFO  no build target found for /Users/bala/IdeaProjects/zio-learning/src/main/scala/problem/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.13 15:19:11 INFO  no build target found for /Users/bala/IdeaProjects/zio-learning/src/main/scala/problem/ProblrmMain.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.13 15:19:11 INFO  no build target found for /Users/bala/IdeaProjects/zio-learning/src/main/scala/problem/ProblrmMain.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Feb 13, 2025 3:19:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+2025.02.13 15:19:11 INFO  no build target found for /Users/bala/IdeaProjects/zio-learning/src/main/scala/problem/ProblrmMain.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.13 15:19:11 INFO  no build target found for /Users/bala/IdeaProjects/zio-learning/src/main/scala/problem/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.13 15:19:12 INFO  no build target found for /Users/bala/IdeaProjects/zio-learning/src/main/scala/problem/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.13 15:19:17 INFO  no build target found for /Users/bala/IdeaProjects/zio-learning/src/main/scala/problem/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.13 15:19:17 INFO  no build target found for /Users/bala/IdeaProjects/zio-learning/src/main/scala/problem/ProblrmMain.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.13 15:19:17 INFO  no build target found for /Users/bala/IdeaProjects/zio-learning/src/main/scala/problem/ProblrmMain.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.13 15:19:19 INFO  no build target found for /Users/bala/IdeaProjects/zio-learning/src/main/scala/problem/ProblrmMain.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.13 15:19:19 INFO  no build target found for /Users/bala/IdeaProjects/zio-learning/src/main/scala/JobScheduler.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.13 15:19:19 INFO  no build target found for /Users/bala/IdeaProjects/zio-learning/src/main/scala/JobScheduler.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.13 15:19:19 WARN  Could not find semantic tokens for: file:///Users/bala/IdeaProjects/zio-learning/src/main/scala/JobScheduler.scala
+2025.02.13 15:19:21 INFO  no build target found for /Users/bala/IdeaProjects/zio-learning/src/main/scala/JobScheduler.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.13 15:19:21 INFO  no build target found for /Users/bala/IdeaProjects/zio-learning/src/main/scala/MainApp.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.13 15:19:21 INFO  no build target found for /Users/bala/IdeaProjects/zio-learning/src/main/scala/MainApp.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.13 15:19:22 INFO  no build target found for /Users/bala/IdeaProjects/zio-learning/src/main/scala/MainApp.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.13 15:19:22 INFO  no build target found for /Users/bala/IdeaProjects/zio-learning/src/main/scala/MyApp.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.13 15:19:22 INFO  no build target found for /Users/bala/IdeaProjects/zio-learning/src/main/scala/MyApp.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.13 15:19:22 WARN  Could not find semantic tokens for: file:///Users/bala/IdeaProjects/zio-learning/src/main/scala/MyApp.scala
+2025.02.13 15:19:22 INFO  no build target found for /Users/bala/IdeaProjects/zio-learning/src/main/scala/MyApp.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.13 15:19:22 INFO  no build target found for /Users/bala/IdeaProjects/zio-learning/src/main/scala/PromiseApp.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.13 15:19:23 INFO  no build target found for /Users/bala/IdeaProjects/zio-learning/src/main/scala/PromiseApp.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.13 15:19:23 INFO  no build target found for /Users/bala/IdeaProjects/zio-learning/src/main/scala/PromiseApp.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.13 15:19:23 INFO  no build target found for /Users/bala/IdeaProjects/zio-learning/src/main/scala/ZioLearning.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.13 15:19:24 INFO  no build target found for /Users/bala/IdeaProjects/zio-learning/src/main/scala/ZioLearning.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Feb 13, 2025 3:20:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.13 15:20:54 INFO  Shutting down server
+2025.02.13 15:20:54 INFO  shutting down Metals
+2025.02.13 15:20:54 INFO  Exiting server
+2025.02.13 15:20:54 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+

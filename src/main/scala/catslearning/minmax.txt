@@ -1,0 +1,39 @@
+
+
+def compare: (Int,Int) => Int = (a,b)=> a-b
+
+def min[A](li: List[A], minimum: List[A]): List[A] ={
+    li match{
+     case Nil => minimum.head
+     case head :: tail =>
+        if(minimum.isEmpty) min(tail, List(head))
+        else
+            val smallest = if(compare(minimum.head,head) <= 0) minimum else List(head))
+            min(tail, smallest)
+}
+
+def max[A](li: List[A], maximium: List[A]): List[A] ={
+    li match{
+     case Nil => maximium.head
+     case head :: tail =>
+        if(maximium.isEmpty) min(tail, List(head))
+        else
+            val biggest = if(compare(minimum.head,head) >= 0) maximium else List(head))
+            min(tail, smallest)
+}
+def minOfList[A](inputList: List[List[A]): List[A]={
+
+    def loopMin(li: List[List[A]], acc: List[A]): List[A]={
+
+        li match{
+            case Nil => acc
+            case head :: tail =>
+                val smallest = min(head)
+                loopMin(tail, smallest +: acc)
+        }
+        }
+     val minList = looMin(linputList, List.empty)
+
+     max(minList, List.empty)
+}
+}

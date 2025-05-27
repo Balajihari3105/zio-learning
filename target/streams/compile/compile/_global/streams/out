@@ -1,0 +1,15 @@
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: /Users/bala/IdeaProjects/zio-learning/src/main/scala/kafkaExMPLE/KafkaMain.scala:82:36 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m82 |[0m      s <- consumer.runDrain.provide(producerLayer(myapp.myapp), consumerLayer(myapp.myapp))[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m   |[0m           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m  [33m──── ZLAYER WARNING ──────────────────────────────────────────────────[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m   [1mYou have provided more than is required.[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m   You may remove the following [1mlayer[0m:[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m     [0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m     [2m1.[0m [36mproducerLayer(myapp.myapp)[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m    [0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m  [33m──────────────────────────────────────────────────────────────────────[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

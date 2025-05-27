@@ -1,0 +1,41 @@
+[debug] > Exec(;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/mc/2rm7cxf95h523rz12gy24mwh0000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveSourceClassifiers");apply -cp "/Users/bala/Library/Application Support/JetBrains/IdeaIC2024.2/plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.3/2024.2.2/sbt-structure-extractor-2024.2.2.jar" "org.jetbrains.sbt.CreateTasks" "sbt.jetbrains.LogDownloadArtifacts";preferScala2;*/*:dumpStructure, Some(d15cb522-e4c2-413f-870c-fdfb80a2fad8), Some(CommandSource(console0)))
+[debug] > Exec(set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/mc/2rm7cxf95h523rz12gy24mwh0000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveSourceClassifiers"), None, Some(CommandSource(console0)))
+[info] Defining Global / sbtStructureOptions, Global / sbtStructureOutputFile and 1 others.
+[info] The new values will be used by cleanKeepGlobs
+[info] 	Run `last` for details.
+[debug] Defining 
+[debug] 	Global / sbtStructureOptions
+[debug] 	Global / sbtStructureOutputFile
+[debug] 	history
+[debug] 	shellPrompt
+[debug] 
+[debug] The new values will be used by 
+[debug] 	cleanKeepGlobs
+[info] Reapplying settings...
+[info] set current project to zio-learning (in build file:/Users/bala/IdeaProjects/zio-learning/)
+[debug] > Exec(apply -cp "/Users/bala/Library/Application Support/JetBrains/IdeaIC2024.2/plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.3/2024.2.2/sbt-structure-extractor-2024.2.2.jar" "org.jetbrains.sbt.CreateTasks" "sbt.jetbrains.LogDownloadArtifacts", None, Some(CommandSource(console0)))
+[info] Applying State transformations org.jetbrains.sbt.CreateTasks, sbt.jetbrains.LogDownloadArtifacts from /Users/bala/Library/Application Support/JetBrains/IdeaIC2024.2/plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.3/2024.2.2/sbt-structure-extractor-2024.2.2.jar
+[info] Reapplying settings...
+[info] set current project to zio-learning (in build file:/Users/bala/IdeaProjects/zio-learning/)
+[info] Reapplying settings...
+[info] set current project to zio-learning (in build file:/Users/bala/IdeaProjects/zio-learning/)
+[debug] > Exec(preferScala2, None, Some(CommandSource(console0)))
+[debug] > Exec(*/*:dumpStructure, None, Some(CommandSource(console0)))
+[debug] Evaluating tasks: Global / dumpStructure
+[warn] sbt 0.13 shell syntax is deprecated; use slash syntax instead: Global / dumpStructure
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] downloading https://repo1.maven.org/maven2/dev/zio/zio-kafka_3/2.9.0/zio-kafka_3-2.9.0.pom
+[info] downloaded https://repo1.maven.org/maven2/dev/zio/zio-kafka_3/2.9.0/zio-kafka_3-2.9.0.pom
+[info] downloading https://repo1.maven.org/maven2/org/apache/kafka/kafka-clients/3.8.1/kafka-clients-3.8.1.pom
+[info] downloaded https://repo1.maven.org/maven2/org/apache/kafka/kafka-clients/3.8.1/kafka-clients-3.8.1.pom
+[info] downloading https://repo1.maven.org/maven2/org/xerial/snappy/snappy-java/1.1.10.5/snappy-java-1.1.10.5.pom
+[info] downloading https://repo1.maven.org/maven2/com/github/luben/zstd-jni/1.5.6-4/zstd-jni-1.5.6-4.pom
+[info] downloaded https://repo1.maven.org/maven2/org/xerial/snappy/snappy-java/1.1.10.5/snappy-java-1.1.10.5.pom
+[info] downloaded https://repo1.maven.org/maven2/com/github/luben/zstd-jni/1.5.6-4/zstd-jni-1.5.6-4.pom
+[info] downloading https://repo1.maven.org/maven2/org/xerial/snappy/snappy-java/1.1.10.5/snappy-java-1.1.10.5.jar
+[info] downloading https://repo1.maven.org/maven2/com/github/luben/zstd-jni/1.5.6-4/zstd-jni-1.5.6-4.jar
+[info] downloading https://repo1.maven.org/maven2/org/apache/kafka/kafka-clients/3.8.1/kafka-clients-3.8.1.jar
+[info] downloading https://repo1.maven.org/maven2/dev/zio/zio-kafka_3/2.9.0/zio-kafka_3-2.9.0.jar
+[info] downloaded https://repo1.maven.org/maven2/dev/zio/zio-kafka_3/2.9.0/zio-kafka_3-2.9.0.jar
+[info] downloaded https://repo1.maven.org/maven2/org/xerial/snappy/snappy-java/1.1.10.5/snappy-java-1.1.10.5.jar
+[info] shutting down sbt server
