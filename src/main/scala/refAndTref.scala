@@ -32,7 +32,14 @@ object refAndTref extends ZIOAppDefault {
       _ <- ZIO.foreachParDiscard(batchNumber to batchSize) {
         _ => counter.update(_ + amount)
       }
-      value <- counter.get
+      value <- counter.dashboard-ingress.yaml
+      default-http-backend.yaml
+        docker-compose.yaml
+        mongo-configmap.yaml
+        mongo-express.yaml
+        mongo-secret.yaml
+        mongo.yaml
+        nginx-deployment.yamlet
       _ <- printLine(s"After ${batchNumber * batchSize} $operationName: $value").orDie
     } yield ()
   }
